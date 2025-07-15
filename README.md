@@ -12,7 +12,6 @@
 ### About Me
 
 - 🔭 I’ve been building across personal and team-based projects — from a journaling web app and mobile recipe manager to energy-efficiency tools with Cornell’s mobile dev team.
-- 💼 I've interned at the American Museum of Natural History and the NYC Housing Authority, where I contributed to software development and IT service management projects.
 - 🌱 I’m currently strengthening my skills in backend frameworks, API integration, and mobile development through coursework, internships, and CodePath programs.
 - 🧠 I’m especially interested in UI/UX, system design, and using tech to support accessibility, wellness, and community impact.
 - 👩🏻‍💻 Check out my portfolio: [elizabeth-woo-web.vercel.app](https://elizabeth-woo-web.vercel.app/)
